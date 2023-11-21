@@ -1,15 +1,19 @@
 body {
     font-family: Arial, sans-serif;
+    text-align: center;
     margin: 20px;
 }
 
-#posts {
+#forecast {
     max-width: 600px;
     margin: 0 auto;
 }
 
-.post {
-    border: 1px solid #ccc;
+.city {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.temperature {
     margin-bottom: 10px;
-    padding: 10px;
 }
