@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#posts {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.post {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+}
